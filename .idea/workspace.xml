@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e546f96d-56df-4bc2-a633-1533d678c8ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/aes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/aes.dart" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_29" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/aes.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="133" column="19" lean-forward="true" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#4770#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/src/steel_crypt_base.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#741#0" expanded="true" />
+                <element signature="e#509#525#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Aditya Kishore &lt;akushwarrior@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/src/aes.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectId" id="1RWCoAZFWxkURPs3ZWpc1fb4ugg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/PointyCastleN/key_derivators/C" />
+      <recent name="$PROJECT_DIR$/lib/PointyCastleN/key_derivators/C/Argon2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.tests">
+    <configuration name="tests" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/example/Tests.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="DartTestRunConfigurationType" factoryName="Dart Test" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/example/example.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Dart Command Line App.tests" />
+      <item itemvalue="Dart Test.Unnamed" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e546f96d-56df-4bc2-a633-1533d678c8ee" name="Default Changelist" comment="" />
+      <created>1569773637715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569773637715</updated>
+      <workItem from="1569773643161" duration="438000" />
+      <workItem from="1569774817600" duration="432000" />
+      <workItem from="1569775310228" duration="39000" />
+      <workItem from="1569775642414" duration="2292000" />
+      <workItem from="1570315830909" duration="2252000" />
+      <workItem from="1571070865442" duration="502000" />
+      <workItem from="1571121484151" duration="401000" />
+      <workItem from="1571257402384" duration="595000" />
+      <workItem from="1572112029916" duration="2720000" />
+      <workItem from="1572281187613" duration="2743000" />
+      <workItem from="1573063290434" duration="39702000" />
+      <workItem from="1573783557094" duration="45000" />
+      <workItem from="1574731992307" duration="19283000" />
+      <workItem from="1574905180335" duration="4197000" />
+      <workItem from="1574959535804" duration="1700000" />
+      <workItem from="1575025753404" duration="555000" />
+      <workItem from="1575387202245" duration="139000" />
+      <workItem from="1575659724252" duration="156000" />
+      <workItem from="1576291609219" duration="537000" />
+      <workItem from="1576292442113" duration="193000" />
+      <workItem from="1576805538442" duration="7116000" />
+      <workItem from="1577029032178" duration="508000" />
+      <workItem from="1577063014504" duration="12308000" />
+      <workItem from="1577576781666" duration="10140000" />
+      <workItem from="1578442833131" duration="1432000" />
+      <workItem from="1578531279583" duration="686000" />
+      <workItem from="1578935960581" duration="26000" />
+      <workItem from="1578967229577" duration="835000" />
+      <workItem from="1579100383307" duration="492000" />
+      <workItem from="1579155824705" duration="277000" />
+      <workItem from="1579212349806" duration="1272000" />
+      <workItem from="1580774420108" duration="4790000" />
+      <workItem from="1581267007575" duration="119000" />
+      <workItem from="1581382254000" duration="3845000" />
+      <workItem from="1581461010696" duration="49000" />
+      <workItem from="1581656282902" duration="368000" />
+    </task>
+    <task id="LOCAL-00001" summary="RC4 Algorithm, maintenance update, cleaner code">
+      <created>1569777074344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569777074344</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Clean up code and fix up ECB mode for AES">
+      <created>1572114239070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572114239070</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bugfix/Revamp for ChaCha20 to work with UTF-8 charset...">
+      <created>1574793820017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574793820017</updated>
+    </task>
+    <task id="LOCAL-00004" summary="better example">
+      <created>1574806721389</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574806721389</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2 new AES modes, ran dartfmt -w, improved README">
+      <created>1574918686486</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574918686486</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Quick README update">
+      <created>1574919056564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574919056564</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Quick Formatting changes...">
+      <created>1574919599555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574919599555</updated>
+    </task>
+    <task id="LOCAL-00008" summary="See Changelog: Formatting, PEM Parsing, and Key generation/parsing have been updated.">
+      <created>1580779577600</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580779577600</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed MAJOR issues with hashing in a number of algorithms">
+      <created>1581386607983</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581386607983</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32969153" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Dart Analysis" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32974428" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.h" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="RC4 Algorithm, maintenance update, cleaner code" />
+    <MESSAGE value="Clean up code and fix up ECB mode for AES" />
+    <MESSAGE value="Bugfix/Revamp for ChaCha20 to work with UTF-8 charset..." />
+    <MESSAGE value="better example" />
+    <MESSAGE value="2 new AES modes, ran dartfmt -w, improved README" />
+    <MESSAGE value="Quick README update" />
+    <MESSAGE value="Quick Formatting changes..." />
+    <MESSAGE value="See Changelog: Formatting, PEM Parsing, and Key generation/parsing have been updated." />
+    <MESSAGE value="Fixed MAJOR issues with hashing in a number of algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed MAJOR issues with hashing in a number of algorithms" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
